@@ -20,10 +20,10 @@ cd Natours
 4. Open the HTML file to see the project in action:
   - Open the index.html file in your browser.
 
-Usage
+## Usage
   - This project is designed to demonstrate basic techniques for building web pages and can serve as a foundation for larger web applications.
 
-Technologies
+## Technologies
   - The project is built using the following technologies:
 
     - HTML5 - Structure of the pages.
